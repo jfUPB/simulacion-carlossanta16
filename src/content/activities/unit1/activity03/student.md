@@ -45,4 +45,4 @@ function draw(){
   walker.show ();
 }
 ```
-7. 
+7. ![Ejes Diagonales](../../../../assets/EjesDiagonales.png)
