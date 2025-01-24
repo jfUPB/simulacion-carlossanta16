@@ -17,3 +17,4 @@ function draw() {
   }
 ```
 2. ![Triangulo](../../../../assets/Triangulo.png)
+3. El triángulo en unos de sus vértices en x arroja valores con la misma distribución, lo que ocasiona que se forme un trapecio.
