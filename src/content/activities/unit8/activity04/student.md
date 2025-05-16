@@ -302,7 +302,7 @@ function windowResized() {
 
 https://editor.p5js.org/carlossanta16/sketches/HpmbPmHbv
 
-![Obra GUY](../../../../assets/OBRAGUY.mp4)
+[Obra GUY](https://github.com/jfUPB/simulacion-carlossanta16/blob/main/src/assets/OBRAGUY.mp4)
 
 
 
